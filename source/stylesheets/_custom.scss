@@ -21,34 +21,30 @@ main{
 }
 
 #contest-form{
-  @extend .peppa-border;
-  @extend .peppa-shadow;
   padding: 0 3%;
-  background-color: $dark-blue;
+  background-color: blue;
   color: white;
   a{
     color: white;
   }
   .btn{
-    background-color: $grass-green !important;
+    background-color: green !important;
   }
 }
 
 .collection{
   // border: 8px solid $color1;
-  background-color: $dark-blue !important;
+  background-color: blue !important;
   color: white !important;
-  @extend .peppa-border;
-  @extend .peppa-shadow;
   border-bottom: 0 !important;
   .collection-item, .collection-header{
     border-bottom: 8px solid white !important;
     border-top: 0 !important;
-    background-color: $dark-blue !important;
+    background-color: blue !important;
     padding: 20px 20px !important;
     color: white !important;
     .tix{
-      background-color: $grass-green !important;
+      background-color: green !important;
       i{color: white !important;}
     }
   }
@@ -92,7 +88,7 @@ label[for=rules], label[for=emails]{
     right: -5px;
     top: 0;
     font-size: 10px;
-    background-color: $grass-green !important;
+    background-color: green !important;
     color: white !important;
     z-index: 99999;
     width: 50px;
@@ -132,7 +128,7 @@ label[for=rules], label[for=emails]{
 span.error{
   position: relative;
   display: block;
-  color: $inner-red;
+  color: red;
 }
 
 .error-box{
@@ -184,13 +180,11 @@ input[type=email],
   overflow-y: scroll;
   overflow-x: hidden;
   height: 500px;
-  @extend .peppa-shadow;
-  @extend .peppa-border;
 }
 
 .select-dropdown{
   li span{
-    color: $dark-blue !important;
+    color: blue !important;
   }
 }
 
@@ -261,7 +255,7 @@ textarea:focus, input:focus {
 }
 
 .sky{
-  background-color: $sky-blue;
+  background-color: light-blue;
   position: fixed;
   width: 100%;
   height: 100%;
@@ -279,7 +273,6 @@ textarea:focus, input:focus {
   bottom: 0;
   z-index: -10;
   &::before{
-    @extend .peppa-shadow-up;
     content: '';
     height: 1200px;
     width: 150%;
@@ -386,7 +379,7 @@ nav{
      left: 0;
      right: 0;
      bottom: 0;
-     background-color: $sky-blue;
+     background-color: light-blue;
      z-index: 99;
     height: 100%;
     z-index: 9999999999999999;
@@ -422,7 +415,7 @@ nav{
 }
 
 .button-collapse{
-  color: $dark-blue;
+  color: blue;
 }
 
 @media (max-width: 965px){
@@ -439,7 +432,7 @@ nav{
   // -ms-transform: rotate(-1deg); /* IE 9 */
   // -webkit-transform: rotate(-1deg); /* Chrome, Safari, Opera */
   // transform: rotate(-1deg);
-  color: $inner-pink !important;
+  color: pink !important;
 }
 
 .enter{
