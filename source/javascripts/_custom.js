@@ -138,14 +138,3 @@ function isElementInViewport(el) {
         rect.left < (window.innerWidth || document. documentElement.clientWidth) /*or $(window).width() */ &&
         rect.top < (window.innerHeight || document. documentElement.clientHeight) /*or $(window).height() */;
 }
-
-
-function checkForPeppa(){
-  var peppaHeader = document.getElementById('peppa-header-image');
-  if(isElementInViewport(peppaHeader)){
-    $('#muddy-peppa').addClass('disappear');
-  } else {
-    $('#muddy-peppa').removeClass('disappear');
-  }
-}
-

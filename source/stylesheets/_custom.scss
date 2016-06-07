@@ -7,11 +7,6 @@ body{
   overflow-x: hidden;
 }
 
-
-main{
-  // background-color: $orange;
-}
-
 .space-out{
   margin-top: 5%;
   margin-bottom: 5%;
@@ -255,75 +250,12 @@ textarea:focus, input:focus {
   }
 }
 
-.sky{
-  background-color: light-blue;
-  position: fixed;
-  width: 100%;
-  height: 100%;
-  top: 0;
-  z-index: -10;
-  background-image: url('https://s3.amazonaws.com/myfangate.com/peppapig/clouds.png');
-  background-repeat: repeat;
-}
-
-.grass{
-  background-color: transparent;
-  position: fixed;
-  width: 100%;
-  height: 50%;
-  bottom: 0;
-  z-index: -10;
-  &::before{
-    content: '';
-    height: 1200px;
-    width: 150%;
-    border-radius: 600px 600px 0 0;
-    -moz-border-radius: 600px 600px 0 0;
-    -webkit-border-radius: 600px 600px 0 0;
-    background: #70ab4f;
-    z-index: -9;
-    position: absolute;
-    top: -50%;
-    left: -24%;
-    right: 0;
-    margin-left: auto;
-    margin-right: auto;
-    background-image: url('https://s3.amazonaws.com/myfangate.com/peppapig/flowers.png');
-    background-repeat: repeat;
-  }
-}
-
-footer{
-  &::before{
-    content: '';
-    background-image: url("https://s3.amazonaws.com/myfangate.com/peppapig/whitewaves.png");
-    height: 54px;
-    width: 100%;
-    background-repeat: repeat-x;
-    margin-top: -54px;
-    position: absolute;
-  }
-}
-
 nav{
   background-color: $orange !important;
   z-index: 99999;
   box-shadow: 0px 0px 0px !important;
 }
 
-#header{
-  position: relative;
-}
-
-.streamers{
-  background-image: url("https://s3.amazonaws.com/myfangate.com/peppapig/streamers.png");
-  width: 100%;
-  height: 100%;
-  background-position: center top;
-  position: absolute;
-  background-repeat: repeat-x;
-  z-index: -1;
-}
 
 .shadowed {
   -webkit-filter: drop-shadow(2px 6px 0px rgba(0,0,0,0.2));
@@ -332,41 +264,6 @@ nav{
   filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=12, OffY=12, Color='#444')";
 }
 
-.pig-container{
-  position: relative;
-}
-
-.peppapig{
-  width: 20%;
-  position: absolute;
-  left: 4%;
-  img {
-    margin-top: -140%;
-  }
-}
-
-.george{
-  position: absolute;
-  right: -2%;
-  width: 30%;
-  float: right;
-  img {
-    margin-top: -160%;
-  }
-}
-
-.peppamud{
-  position: absolute;
-  position: absolute;
-  top: -70%;
-  left: 5%;
-}
-
-@media #{$medium-and-down} {
-  .grass:before{
-    border-radius: 0;
-  }
-}
 
 #preloader  {
      position: fixed;
@@ -413,49 +310,9 @@ nav{
   color: blue;
 }
 
-@media (max-width: 965px){
-  #header{
-    margin-top: 50px;
-  }
-}
-
-.reg-text-shadow{
-  text-shadow: 1px 1px 0px rgba(0,0,0,0.2);
-}
-
-.prize-text{
-  // -ms-transform: rotate(-1deg); /* IE 9 */
-  // -webkit-transform: rotate(-1deg); /* Chrome, Safari, Opera */
-  // transform: rotate(-1deg);
-  color: pink !important;
-}
-
-.enter{
-  // -ms-transform: rotate(2deg); /* IE 9 */
-  // -webkit-transform: rotate(2deg); /* Chrome, Safari, Opera */
-  // transform: rotate(2deg);
-}
-
 .break-word{
   word-wrap: break-word !important;
   width: 100% !important;
-}
-
-#muddy-peppa{
-  transition-duration:500ms;
-  -ms-transition-duration:500ms;
-  -webkit-transition-duration:500ms;
-  -o-transition-duration:500ms;
-  -moz-transition-duration:500ms;
-}
-
-.disappear{
-    opacity:0;
-    transform:scale(0,0);
-    -ms-transform:scale(0,0); /* IE 9 */
-    -webkit-transform:scale(0,0); /* Safari and Chrome */
-    -o-transform:scale(0,0); /* Opera */
-    -moz-transform:scale(0,0); /* Firefox */
 }
 
 #tour-dates p {
@@ -463,30 +320,6 @@ nav{
   font-size: 18px;
 }
 
-.firefox-header{
-  margin-top: 5% !important;
-}
-.header-grass{
-  height: 153px;
-  background-image: url("https://s3.amazonaws.com/myfangate.com/peppapig/headergrass.png");
-  background-repeat: repeat-x;
-  background-position: center center;
-  position: absolute;
-  width: 200%;
-  left: -50%;
-  z-index: -1;
-}
-
-.secondcta{
-  margin-top: 160px;
-}
-
-
-@media (max-width: 600px){
-  .secondcta{
-    margin-top: 0;
-  }
-}
 
 // octo
 .octonauts-btn{
