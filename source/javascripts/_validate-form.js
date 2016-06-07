@@ -2,8 +2,8 @@
 function toasts(){
   setTimeout(function(){
     $('span.error').each(function(){
-      if($(this).html() != ""){
-        var errorText = $(this).text();
+      if($(this).html() !== ""){
+        var errorText = "<span>"+$(this).text().trim()+"<span>";
         Materialize.toast(errorText, 4000, 'red break-word');
       }
     });
