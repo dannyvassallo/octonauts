@@ -7,4 +7,5 @@
 //= require _additional-methods.min
 //= require _validate-form
 //= require _remove-shadow
+//= require _bubbles
 //= require _custom

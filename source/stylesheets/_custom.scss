@@ -1,14 +1,15 @@
-body{
-  overflow-x: hidden;
-}
-
+$orange: #d9541e;
 $color1: #717171;
 $color2: #d5c5b8;
 $form-color: white;
 
+body{
+  overflow-x: hidden;
+}
+
+
 main{
-  padding-bottom: 5%;
-  padding-top: 5%;
+  // background-color: $orange;
 }
 
 .space-out{
@@ -305,15 +306,9 @@ footer{
 }
 
 nav{
-  &::after{
-    content: '';
-    background-image: url("https://s3.amazonaws.com/myfangate.com/peppapig/whitewavesdown.png");
-    height: 54px;
-    width: 100%;
-    background-repeat: repeat-x;
-    position: absolute;
-    margin-top: -22px;
-  }
+  background-color: $orange !important;
+  z-index: 99999;
+  box-shadow: 0px 0px 0px !important;
 }
 
 #header{
@@ -490,5 +485,20 @@ nav{
 @media (max-width: 600px){
   .secondcta{
     margin-top: 0;
+  }
+}
+
+// octo
+.octonauts-btn{
+  background-color: white;
+  border-radius: 50px;
+  border: 5px solid #005A84;
+  color: #005A84;
+  font-family: 'rosewood_stdfill';
+  line-height: 31px;
+  margin-left: 2px;
+  margin-right: 2px;
+  &:hover{
+    background-color: white;
   }
 }
