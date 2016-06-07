@@ -1,7 +1,8 @@
 $orange: #d9541e;
-$color1: #717171;
+$blue: #005A84;
+$color1: $blue;
 $color2: #d5c5b8;
-$form-color: white;
+$form-color: $blue;
 
 body{
   overflow-x: hidden;
@@ -18,13 +19,13 @@ body{
 
 #contest-form{
   padding: 0 3%;
-  background-color: blue;
-  color: white;
-  a{
-    color: white;
-  }
+  background-color: white;
+  border: 10px solid $blue;
+  border-radius: 50px;
+  color: $blue;
+  box-shadow: 0px 0px 20px 10px $orange;
   .btn{
-    background-color: green !important;
+    background-color: $blue !important;
   }
 }
 
@@ -63,17 +64,17 @@ body{
 .input-field label.active {
   font-size: 0.8rem;
   transform: translateY(-180%);
-  color: white;
+  color: $blue;
 }
 
 /* label color */
 .input-field label {
-  color: purple;
+  color: $blue;
   padding-left: 1%;
 }
 
 label[for=rules], label[for=emails]{
-  color: white !important;
+  color: $blue !important;
   padding-left: 30px !important;
   margin-bottom: 3%;
 }
@@ -84,7 +85,7 @@ label[for=rules], label[for=emails]{
     right: -5px;
     top: 0;
     font-size: 10px;
-    background-color: green !important;
+    background-color: $blue !important;
     color: white !important;
     z-index: 99999;
     width: 50px;
@@ -132,8 +133,8 @@ span.error{
 }
 
 input{
-  background-color: white !important;
-  color: purple !important;
+  background-color: rgba(0,0,0,0.05) !important;
+  color: $blue !important;
   padding-left: 1% !important;
 }
 
@@ -144,7 +145,7 @@ input:not([email]):focus:not([readonly]){
 }
 
 label.active{
-  color: white !important;
+  color: $blue !important;
 }
 
 input:not([email]):focus:not([readonly])+label,{
@@ -152,19 +153,42 @@ input:not([email]):focus:not([readonly])+label,{
 }
 
 input[type="checkbox"].filled-in:checked+label:after {
-  border: 2px solid white;
-  background-color: transparent;
+    top: 0;
+    width: 20px;
+    height: 20px;
+    border: 2px solid $blue;
+    background-color: $blue;
+    z-index: 0;
 }
 
-input[type="checkbox"].filled-in:not(:checked)+label:after{
-  border: 2px solid white;
-  background-color: transparent;
+input[type="checkbox"].filled-in:checked+label:before {
+    top: 0;
+    left: 1px;
+    width: 8px;
+    height: 13px;
+    border-top: 2px solid transparent;
+    border-left: 2px solid transparent;
+    border-right: 2px solid white;
+    border-bottom: 2px solid white;
+    -webkit-transform: rotateZ(37deg);
+    transform: rotateZ(37deg);
+    -webkit-transform-origin: 100% 100%;
+    transform-origin: 100% 100%;
+}
+
+input[type="checkbox"].filled-in:not(:checked)+label:after {
+    height: 20px;
+    width: 20px;
+    background-color: transparent;
+    border: 2px solid $blue !important;
+    top: 0px;
+    z-index: 0;
 }
 
 input:not([type]),
 input[type=email],
 .select-wrapper input.select-dropdown{
-  border-bottom: 1px solid white;
+  border-bottom: 1px solid $blue;
 }
 
 .caret{
@@ -180,7 +204,7 @@ input[type=email],
 
 .select-dropdown{
   li span{
-    color: blue !important;
+    color: $blue !important;
   }
 }
 
