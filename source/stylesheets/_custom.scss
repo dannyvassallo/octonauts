@@ -19,29 +19,29 @@ body{
 
 #contest-form{
   padding: 0 3%;
-  background-color: white;
-  border: 10px solid $blue;
-  border-radius: 50px;
-  color: $blue;
-  box-shadow: 0px 0px 20px 10px $orange;
   .btn{
     background-color: $blue !important;
   }
 }
 
+.mobile-prizing{
+  padding: 0 3%;
+}
+
 .collection{
   // border: 8px solid $color1;
-  background-color: blue !important;
-  color: white !important;
+  background-color: white !important;
+  color: $blue !important;
+  border-top: 0px solid transparent !important;
   border-bottom: 0 !important;
   .collection-item, .collection-header{
-    border-bottom: 8px solid white !important;
-    border-top: 0 !important;
-    background-color: blue !important;
+    border-bottom: 2px solid $blue !important;
+    border-top: 0px solid transparent !important;
+    background-color: white !important;
     padding: 20px 20px !important;
-    color: white !important;
+    color: $blue !important;
     .tix{
-      background-color: green !important;
+      background-color: $blue !important;
       i{color: white !important;}
     }
   }
@@ -341,7 +341,7 @@ nav{
 
 #tour-dates p {
   display: inline;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 
@@ -351,7 +351,7 @@ main{
   background-size: cover;
   background-attachment: fixed;
   background-position: center center;
-  padding-bottom: 100px !important;
+  padding-bottom: 200px !important;
 }
 
 .octonauts-btn{
@@ -393,4 +393,12 @@ footer{
 .above{
   position: relative;
   z-index: 99;
+}
+
+.contest-container, .tourdate-container{
+  background-color: white;
+  border: 10px solid $blue;
+  border-radius: 50px;
+  color: $blue;
+  box-shadow: 0px 0px 20px 10px $orange;
 }
