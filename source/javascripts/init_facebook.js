@@ -5,7 +5,7 @@
   //        Facebook API HOOKS       //
   window.fbAsyncInit = function() {
     FB.init({
-      appId      : '1701576750099148',
+      appId      : '496921090500021',
       xfbml      : true,
       version    : 'v2.5'
     });
@@ -34,10 +34,10 @@
     {
       // SHARE INFO
       method: 'feed',
-      name: 'Win Tickets to Peppa Pig LIVE! Peppa Pig\'s Big Splash!', // name of the product or content you want to share
-      link: 'http://peppapig.herokuapp.com', // link back to the product or content you are sharing
-      picture: 'https://s3.amazonaws.com/myfangate.com/peppapig/shareimage.jpg', // path to an image you would like to share with this content
-      caption: 'Peppa Pig Wants to send you to a Peppa Pig LIVE! tour date near you!', // caption
+      name: 'Win Tickets to Octonauts LIVE!', // name of the product or content you want to share
+      link: 'http://octonauts.herokuapp.com', // link back to the product or content you are sharing
+      picture: 'https://s3.amazonaws.com/myfangate.com/octonauts/shareimage.jpg', // path to an image you would like to share with this content
+      caption: 'Octonauts want to send you to a Octonauts LIVE! tour date near you!', // caption
       description: 'Enter your email, choose the closest tour date, and share to win tickets!' // description of your product or content
     },
     function(response) {
