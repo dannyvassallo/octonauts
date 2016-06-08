@@ -295,7 +295,7 @@ nav{
      left: 0;
      right: 0;
      bottom: 0;
-     background-color: light-blue;
+     background-color: $blue;
      z-index: 99;
     height: 100%;
     z-index: 9999999999999999;
@@ -310,10 +310,10 @@ nav{
  }
 
 .loaderimg {
-    width: 174px;
-    height: 208px;
+    width: 200px;
+    height: 200px;
     margin: 0 auto !important;
-    background-image: url('https://s3.amazonaws.com/myfangate.com/peppapig/mudpuddle.gif');
+    background-image: url('https://s3.amazonaws.com/myfangate.com/octonauts/loader.gif');
     background-repeat: no-repeat;
     background-position: center;
     margin: -100px 0 0 -100px;
@@ -331,7 +331,7 @@ nav{
 }
 
 .button-collapse{
-  color: blue;
+  color: white;
 }
 
 .break-word{
@@ -401,4 +401,25 @@ footer{
   border-radius: 50px;
   color: $blue;
   box-shadow: 0px 0px 20px 10px $orange;
+}
+
+.no-margin{
+  margin: 0 auto !important;
+}
+
+.cta{
+  z-index: 3;
+}
+
+@media (max-width: 640px){
+  .tourdate-container{
+    margin-top: 50px;
+  }
+  .collection-item{
+    div{
+      p{
+        font-size: 13px !important;
+      }
+    }
+  }
 }

@@ -21,16 +21,16 @@ There is also a partial/template for meta info on most social networks.
 ####Getting Started
 Clone the repo using the GUI or terminal. To do so in terminal, use the following:
 ```shell
-git clone https://github.com/dannyvassallo/peppapig.git
-cd peppapig
+git clone https://github.com/dannyvassallo/octonauts.git
+cd octonauts
 ```
 
-From the "peppapig" directory, install the gems by running the following:
+From the "octonauts" directory, install the gems by running the following:
 ```shell
 bundle install
 ```
 
-To fire up the server while in the "peppapig" directory use this command:
+To fire up the server while in the "octonauts" directory use this command:
 ```shell
 middleman s
 ```
@@ -46,7 +46,7 @@ If you find yourself curious as to what directory you are in use the following i
 ```shell
 pwd
 ```
-It should turn up "peppapig"
+It should turn up "octonauts"
 
 ####Analytics Setup
 
