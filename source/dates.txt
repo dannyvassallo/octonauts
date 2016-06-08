@@ -1,37 +1,62 @@
-"date","time","city","venue","link"
-9/14/16,6:00pm,"Brookville, NY",Tilles Center for the Arts,http://www.ticketmaster.com/peppa-pig-live-brookville-new-york-09-14-2016/event/0000505AB51A441B
-9/15/16,6:00pm,"Syracuse, NY",Crouse-Hinds Theatre at John H. Mulroy Civic Center at Oncenter,http://www.ticketmaster.com/peppa-pig-live-syracuse-new-york-09-15-2016/event/0000505AEFEBB051
-9/16/16,6:00pm,"Binghamton, NY",The Forum Theatre,http://www.ticketmaster.com/event/0000505DC12E491F
-9/17/16,2:00pm,"Morristown, NJ",Mayo Performing Arts Center,http://www.mayoarts.org/event-preview/701
-9/17/16,5:00pm,"Morristown, NJ",Mayo Performing Arts Center,http://www.mayoarts.org/event-preview/701
-9/18/16,2:00pm,"New Brunswick, NJ",State Theatre,http://www.ticketmaster.com/event/0000505DB1DB3A03
-9/18/16,5:00pm,"New Brunswick, NJ",State Theatre,http://www.ticketmaster.com/event/0000505DB1E13A08
-9/21/16,6:00pm,"Portland, ME",Merrill Auditorium at City Hall,https://tickets.porttix.com/public/loader.asp?target=show.asp?shcode=1767
-9/22/16,6:00pm,"Orono, ME",Collins Center For The Arts,http://www.ticketmaster.com/peppa-pig-live-orono-maine-09-22-2016/event/010050591DF5A796
-9/23/16,6:00pm,"Waterbury, CT",The Palace Theater,http://purchase.tickets.com/buy/TicketPurchase?pid=8208818
-9/24/16,5:00pm,"Kingston, NY",Ulster Performing Arts Center,http://www.ticketmaster.com/peppa-pig-live-kingston-new-york-09-24-2016/event/0000505AECE9AE6F
-9/25/16,5:00pm,"Williamsport, PA",Williamsport Community Arts Center,http://www.caclive.com/event/peppa-pigs-big-splash-live/
-9/27/16,6:00pm,"Durham, NC",Durham Performing Arts Center,http://www.ticketmaster.com/event/0E005072CAB0738A
-9/28/16,6:00pm,"Cleveland, OH",Playhouse Square - State Theatre,http://www.playhousesquare.org/events/detail/peppa-pig-live
-9/29/16,6:00pm,"Charleston, WV",Clay Center for Arts & Sciences,https://tickets.theclaycenter.org/public/show.asp
-9/30/16,6:30pm,"Norfolk, VA",Chrysler Hall Theatre,http://www.ticketmaster.com/peppa-pig-live-big-splash-norfolk-virginia-09-30-2016/event/0100505DEFD48921
-10/1/16,5:00pm,"Roanoke, VA",Berglund Performing Arts Theatre,http://ev10.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=PP1001&linkID=global-roanoke&shopperContext=&caller=&appCode=
-10/2/16,1:00pm,"Charlotte, NC",Belk Theater at North Carolina Blumenthal Performing Arts Center ,https://tix.carolinatix.org/online/mapSelect.asp?BOset::WSmap::seatmap::performance_ids=F9AA9896-DFAB-41C7-BB39-56A853DE868A
-10/2/16,5:00pm,"Charlotte, NC",Belk Theater at North Carolina Blumenthal Performing Arts Center ,https://tix.carolinatix.org/online/mapSelect.asp?BOset::WSmap::seatmap::performance_ids=2DF52432-CD7E-46C5-BDB3-3F59C38EB388
-10/4/16,6:00pm,"Savannah, GA",Johnny Mercer Theater - Savannah Civic Center,https://www.etix.com/ticket/p/5965133/peppa-pig-savannah-savannah-civic-centerjohnny-mercer-theatre
-10/5/16,6:00pm,"Chattanooga, TN",Tivoli Theatre,http://www.etix.com/ticket/p/3120048/peppa-pig-live-chattanooga-tivoli-theatre
-10/6/16,6:00pm,"Asheville, NC",Thomas Wolfe Auditorium,http://www.ticketmaster.com/event/0E00505D9BD23511
-10/7/16,6:00pm,"Columbia, SC",Township Auditorium,http://www.ticketmaster.com/peppa-pig-live-columbia-south-carolina-10-07-2016/event/0E005061932A30CA
-10/8/16,5:00pm,"Richmond, KY",Eastern Kentucky University - EKU Center for the Arts,http://www.etix.com/ticket/p/4278174/peppa-pig-richmond-eku-center-for-the-arts
-10/9/16,5:00pm,"Columbus, OH",Palace Theatre,http://www.ticketmaster.com/peppa-pig-live-columbus-ohio-10-09-2016/event/0500505ADFE4996F
-10/11/16,6:00pm,"South Bend, IN",Morris Performing Arts Center,http://morriscenter.org/schedule.php?id=339
-10/13/16,6:00pm,"Joliet, IL",Rialto Square Theatre,http://www.ticketmaster.com/peppa-pig-live-joliet-illinois-10-13-2016/event/0700505AF42781DB
-10/14/16,6:00pm,"Merrillville, IN",Star Plaza Theatre,http://www.ticketmaster.com/peppa-pig-live-big-splash-merrillville-indiana-10-14-2016/event/07005061EEE976CA
-10/15/16,5:00pm,"Appleton, WI",Fox Cities Performing Arts Center,http://www.ticketmaster.com/peppa-pig-live-big-splash-appleton-wisconsin-10-15-2016/event/0700505AAAA14EC8
-10/16/16,2:00pm,"Waukegan, IL",Genesee Theatre,http://www.ticketmaster.com/peppa-pig-live-waukegan-illinois-10-16-2016/event/0700505DE97575D1
-10/18/16,6:00pm,"Lincoln, NE",Lied Center for Performing Arts,http://www.liedcenter.org/event/peppa-pig%E2%80%99s-big-splash
-10/19/16,6:00pm,"Ames, IA",Stephens Auditorium - Iowa State Center     ,http://www.ticketmaster.com/event/06005075C9176C96
-10/20/16,6:00pm,"Davenport, IA",Adler Theatre,http://www.ticketmaster.com/peppa-pig-live-davenport-iowa-10-20-2016/event/060050628FE52D57
-10/21/16,6:00pm,"Bowling Green,KY",Southern Kentucky Performing Arts Center (SKyPAC),http://theskypac.com/events/peppa-pig-live/
-10/22/16,5:00pm,"Memphis, TN",Orpheum Theatre ,http://www.ticketmaster.com/peppa-pig-live-big-splash-memphis-tennessee-10-22-2016/event/1B00505DAAF05B03
-10/23/16,5:00pm,"Augusta, GA",Bell Auditorium,http://ev9.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=PPIG&linkID=global-augusta&shopperContext=&caller=&appCode=
+"date","time","city","venue","link","vip"
+09/22/2016,6:00PM,"San Diego, CA",Balboa Theatre,http://www.ticketmaster.com/event/0A005095E4D237E8,http://www.cidentertainment.com/events/octonauts-tour-2016/
+09/23/2016,6:00PM,"Riverside, CA",Fox Performing Arts Center,http://concerts.livenation.com/event/0B005096D50F4D61,http://www.cidentertainment.com/events/octonauts-tour-2016/
+09/24/2016,5:00PM,"Santa Barbara, CA",Arlington Theater,http://www.ticketmaster.com/octonauts-live-santa-barbara-california-09-24-2…005098B2E61CE9,http://www.cidentertainment.com/events/octonauts-tour-2016/
+09/25/2016,5:00PM,"Stockton, CA",Bob Hope Theater,http://www.ticketmaster.com/octonauts-live-stockton-california-09-25-2016/e…005094A4DF3585,http://www.cidentertainment.com/events/octonauts-tour-2016/
+09/27/2016,6:00PM,"San Jose, CA",City National Civic,http://www.ticketmaster.com/octonauts-live-san-jose-california-09-27-2016/e…005099BAB52838,http://www.cidentertainment.com/events/octonauts-tour-2016/
+09/28/2016,6:00PM,"Redding, CA",Redding Civic Auditorium,http://www.etix.com/ticket/p/7109167/the-octonauts-live-redding-redding-civic-auditorium,http://www.cidentertainment.com/events/octonauts-tour-2016/
+09/29/2016,6:00PM,"Bakersfield, CA",Fox Theater,http://www.ticketmaster.com/octonauts-live-bakersfield-california-09-29-201…005095EEEA6C3B,http://www.cidentertainment.com/events/octonauts-tour-2016/
+09/30/2016,6:00PM,"Las Vegas, NV",Cox Pavilion,http://octonautsliveus.com/events/379643,http://www.cidentertainment.com/events/octonauts-tour-2016/
+10/01/2016,2:00PM,"Los Angeles, CA",Microsoft Theater,http://axs.com/events/309766/octonauts-live-tickets,http://www.cidentertainment.com/events/octonauts-tour-2016/
+10/02/2016,5:00PM,"Phoenix, AZ",Comerica Theatre,http://www.ticketmaster.com/event/19005094F3813C12,http://www.cidentertainment.com/events/octonauts-tour-2016/
+10/05/2016,6:00PM,"Austin, TX",ACL Live at The Moody Theater,http://shrsl.com/?~c9gn,http://www.cidentertainment.com/events/octonauts-tour-2016/
+10/06/2016,6:00PM,"San Antonio, TX",Majestic Theater,http://www.ticketmaster.com/octonauts-live-san-antonio-texas-10-06-2016/eve…005094E5E35E95,http://www.cidentertainment.com/events/octonauts-tour-2016/
+10/07/2016,6:00PM,"Grand Prairie, TX",Verizon Theatre at Grand Prairie,http://www.axs.com/events/309931/the-octonauts-live-tickets,http://www.cidentertainment.com/events/octonauts-tour-2016/
+10/08/2016,5:00PM,"Tulsa, OK",Brady Theater,http://octonautsliveus.com/events/379693,http://www.cidentertainment.com/events/octonauts-tour-2016/
+10/09/2016,5:00PM,"Houston, TX",Revention Music Center,http://concerts.livenation.com/event/3A00509934500928?crosssite=TM_US:20253…2025335:475416,http://www.cidentertainment.com/events/octonauts-tour-2016/
+10/10/2016,6:00PM,"New Orleans, LA",Mahalia Jackson Theater of the Performing Arts,http://www.ticketmaster.com/event/1B005094D74CA160,http://www.cidentertainment.com/events/octonauts-tour-2016/
+10/12/2016,6:00PM,"Shreveport, LA",Municipal Auditorium of Shreveport,http://www.ticketmaster.com/event/1B00509A5A2C0D46,http://www.cidentertainment.com/events/octonauts-tour-2016
+10/13/2016,6:00PM,"Oklahoma City, OK",Hudson Performance Hall,http://octonautsliveus.com/events/380503,http://www.cidentertainment.com/events/octonauts-tour-2016
+10/14/2016,6:00PM,"St. Louis, MO",Fox Theater,http://ev3.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=FOX14OCT1…ID=metro-foxsl,http://www.cidentertainment.com/events/octonauts-tour-2016/
+10/15/2016,5:00PM,"Kansas City, MO",Arvest Bank Theatre at Midland,http://www.axs.com/events/309824/the-octonauts-live-tickets,http://www.cidentertainment.com/events/octonauts-tour-2016/
+10/16/2016,5:00PM,"Topeka, KS",Topeka Performing Arts Center,http://www.ticketmaster.com/octonauts-live-topeka-kansas-10-16-2016/event/06005098F2FF45F8,http://www.cidentertainment.com/events/octonauts-tour-2016/
+10/18/2016,6:00PM,"Peoria, IL",Peoria Civic Center,http://www.ticketmaster.com/octonauts-live-peoria-illinois-10-18-2016/event…005096AA757C0D,http://www.cidentertainment.com/events/octonauts-tour-2016/
+10/19/2016,6:00PM,"Grand Rapids, MI",Devos Music Hall,http://www.ticketmaster.com/octonauts-live-grand-rapids-michigan-10-19-2016…005095DDAC55FD,http://www.cidentertainment.com/events/octonauts-tour-2016/
+10/20/2016,6:00PM,"Louisville, KY",Palace Theatre,http://www.ticketmaster.com/event/16005099D121677C,http://www.cidentertainment.com/events/octonauts-tour-2016/
+10/21/2016,6:00PM,"Rockford, IL",Coronado Theater,http://www.ticketmaster.com/octonauts-live-rockford-illinois-10-21-2016/eve…0050978E841226,http://www.cidentertainment.com/events/octonauts-tour-2016/
+10/22/2016,5:00PM,"Columbus, OH",Palace Theater,http://www.ticketmaster.com/octonauts-live-columbus-ohio-10-22-2016/event/05005096C28390A8,http://www.cidentertainment.com/events/octonauts-tour-2016/
+10/23/2016,2:00PM,"Rosemont, IL",Rosemont Theatre,http://www.ticketmaster.com/event/040050969F87379E,http://www.cidentertainment.com/events/octonauts-tour-2016/
+10/24/2016,6:00PM,"Minneapolis, MN",Northrop Auditorium,http://www.northrop.umn.edu/events/octonauts-live,http://www.cidentertainment.com/events/octonauts-tour-2016/
+10/26/2016,6:00PM,"Cedar Rapids, IA",Paramount Theatre,https://tickets.artsiowa.com/booking/production/syos/2303,http://www.cidentertainment.com/events/octonauts-tour-2016/
+10/27/2016,6:00PM,"Milwaukee, WI",Riverside Theatre,http://pabsttheater.org/show/octonautslive2016,http://www.cidentertainment.com/events/octonauts-tour-2016/
+10/28/2016,6:00PM,"Detroit, MI",Fox Theatre,http://www.ticketmaster.com/octonauts-live-detroit-michigan-10-28-2016/even…005099C5926100,http://www.cidentertainment.com/events/octonauts-tour-2016/
+10/29/2016,5:00PM,"Indianapolis, IN",Murat Theater,http://concerts.livenation.com/event/050050960396B2A9?crosssite=TM_US:2025335:41109,http://www.cidentertainment.com/events/octonauts-tour-2016/
+10/30/2016,5:00PM,"Akron, OH",Akron Civic Theater,http://www.ticketmaster.com/octonauts-live-akron-ohio-10-30-2016/event/05005095C6A884BE,http://www.cidentertainment.com/events/octonauts-tour-2016/
+11/01/2016,6:00PM,"Greensburg, PA",Palace Theatre,http://shrsl.com/?~cd2j,http://www.cidentertainment.com/events/octonauts-tour-2016
+11/02/2016,6:30PM,"Cincinnati, OH",Aronoff Center for the Arts,https://ev9.evenue.net/cgi-bin/ncommerce3/SEGetEventInfo?ticketCode=GS:CAA:…upCode=OCT&cgc,http://www.cidentertainment.com/events/octonauts-tour-2016/
+11/03/2016,6:00PM,"Huntsville, AL",Von Braun Center Arena,http://www.ticketmaster.com/octonauts-live-huntsville-alabama-11-03-2016/ev…0005098B29A68E7,http://www.cidentertainment.com/events/octonauts-tour-2016
+11/04/2016,6:00PM,"Macon, GA",Macon City Auditorium,http://www.ticketmaster.com/octonauts-live-macon-georgia-11-04-2016/event/0E005099B5C58FCC,http://www.cidentertainment.com/events/octonauts-tour-2016/
+11/05/2016,5:00PM,"Columbia, SC",Koger Center For The Arts,http://www.kogercenterforthearts.com/event.php?id=198,http://www.cidentertainment.com/events/octonauts-tour-2016
+11/06/2016,5:00PM,"Nashville, TN",Andrew Jackson Hall,https://patron.tpac.org/events/detail/octonauts-live-2016-tpac,http://www.cidentertainment.com/events/octonauts-tour-2016/
+11/09/2016,6:00PM,"Wilmington, NC",The Wilson Center at Cape Fear Comm. College,http://cfcc.edu/capefearstage/octonauts-live/,http://www.cidentertainment.com/events/octonauts-tour-2016/
+11/10/2016,6:00PM,"Charleston, SC",Charleston Gaillard Center,http://www.gaillardcenter.com/buy-tickets/7e6d4ef9-4534-4758-a247-f288a33c9…uts-live!.html,http://www.cidentertainment.com/events/octonauts-tour-2016/
+11/11/2016,6:00PM,"Durham, NC",Durham PAC,http://www.ticketmaster.com/octonauts-live-durham-north-carolina-11-11-2016…0050959B088396,http://www.cidentertainment.com/events/octonauts-tour-2016/
+11/12/2016,2:00PM,"Baltimore, MD",The Hippodrome Theater :: Baltimore,http://www.ticketmaster.com/octonauts-live-baltimore-maryland-11-12-2016/ev…005095B1704713,http://www.cidentertainment.com/events/octonauts-tour-2016/
+11/13/2016,2:00PM,"Washington, DC",Warner Theatre,http://concerts.livenation.com/event/15005099D03C38EE,http://www.cidentertainment.com/events/octonauts-tour-2016/
+11/15/2016,6:00PM,"Norfolk, VA",Chrysler Hall,http://www.ticketmaster.com/event/010050970B5980AA,http://www.cidentertainment.com/events/octonauts-tour-2016
+11/16/2016,6:00PM,"Wilkes-Barre, PA",Kirby Center for the Performing Arts,http://www.ticketmaster.com/event/02005094D4D08D9C,http://www.cidentertainment.com/events/octonauts-tour-2016/
+11/18/2016,6:00PM,"Glenside, PA",Keswick Theatre,http://axs.com/events/309935/octonauts-live-tickets,http://www.cidentertainment.com/events/octonauts-tour-2016/
+11/19/2016,2:00PM,"Morristown, NJ",Mayo Performing Arts Center,http://www.mayoarts.org/event/the-octonauts,http://www.cidentertainment.com/events/octonauts-tour-2016/
+11/19/2016,5:00PM,"Morristown, NJ",Mayo Performing Arts Center,http://www.mayoarts.org/event/the-octonauts,http://www.cidentertainment.com/events/octonauts-tour-2016
+11/20/2016,5:00PM,"Boston, MA",Orpheum Theater,http://www.ticketmaster.com/event/01005094C5016C1C,http://www.cidentertainment.com/events/octonauts-tour-2016/
+11/22/2016,6:00PM,"Bethlehem, PA",Sands Bethlehem Event Center,http://www.ticketmaster.com/event/0200509A998F2358,http://www.cidentertainment.com/events/octonauts-tour-2016/
+11/23/2016,4:00PM,"Red Bank, NJ",Count Basie Theatre,http://www.countbasietheatre.org/calendar/show/show.asp?id=43250577,http://www.cidentertainment.com/events/octonauts-tour-2016
+11/25/2016,5:00PM,"Wallingford, CT",Toyota Oakdale Theatre,http://www.ticketmaster.com/event/1D005094946720DB,http://www.cidentertainment.com/events/octonauts-tour-2016/
+11/26/2016,2:00PM,"Brookville, NY",Tilles Center For the Performing Arts,http://www.ticketmaster.com/octonauts-live-brookville-new-york-11-26-2016/e…005095F45F9D6E,http://www.cidentertainment.com/events/octonauts-tour-2016/
+11/27/2016,5:00PM,"Richmond, VA",Carpenter Theater,http://www.etix.com/ticket/p/3513868?partner_id=1010,http://www.cidentertainment.com/events/octonauts-tour-2016/
+11/29/2016,6:00PM,"Atlanta, GA",Cobb Energy Performing Arts Centre,http://www.ticketmaster.com/octonauts-live-atlanta-georgia-11-29-2016/event…005095DC08EE9A,http://www.cidentertainment.com/events/octonauts-tour-2016/
+11/30/2016,6:00PM,"Jacksonville, FL",Florida Theater,http://www.ticketmaster.com/octonauts-live-jacksonville-florida-11-30-2016/…005095AD798989,http://www.cidentertainment.com/events/octonauts-tour-2016/
+12/01/2016,6:00PM,"Ft. Myers, FL",Barbara B Mann Performing Arts Hall,http://bbmannpah.com/performance.php?id=879,http://www.cidentertainment.com/events/octonauts-tour-2016
+12/02/2016,6:00PM,"Clearwater, FL",Ruth Eckerd Hall,http://www.rutheckerdhall.com/event/octonauts-live/19148/,http://www.cidentertainment.com/events/octonauts-tour-2016/
+12/03/2016,5:00PM,"Orlando, FL",Dr. Phillips Center for the Performing Arts,https://www.drphillipscenter.org/shows-and-events/Shows-Events/family/20120…auts-live.stml,http://www.cidentertainment.com/events/octonauts-tour-2016/
+12/04/2016,5:00PM,"Miami Beach, FL",Fillmore Miami Beach,http://www.ticketmaster.com/event/0D005095E6F1B6E1,http://www.cidentertainment.com/events/octonauts-tour-2016/

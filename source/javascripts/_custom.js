@@ -45,7 +45,8 @@ function dateHandler(data){
     var time = this.time;
     var venue = this.venue;
     var href = this.link;
-    var dateConstructor = "<li class=\"collection-item cyan white-text ticket-links\"><div><p class=\"date\">"+tourDate+"</p> <p class=\"date-divider\">- </p><p class=\"venue hide-on-med-and-down\">"+venue+" in </p><p class=\"city\">"+city+"</p><p class=\"time\"> @ "+time+"</p><div class=\"secondary-content\"><a target=\"_blank\" href=\""+href+"\" class=\"tix btn btn-small white\"><i class=\"fa fa-ticket cyan-text\"></i></a></div></li>";
+    var vip = this.vip;
+    var dateConstructor = "<li class=\"collection-item cyan white-text ticket-links\"><div><p class=\"date\">"+tourDate+"</p> <p class=\"date-divider\">- </p><p class=\"venue hide-on-med-and-down\">"+venue+" in </p><p class=\"city\">"+city+"</p><p class=\"time hide-on-med-and-down\"> @ "+time+"</p><div class=\"secondary-content\"><a target=\"_blank\" href=\""+href+"\" class=\"tix btn btn-small white\"><i class=\"fa fa-ticket cyan-text\"></i></a><a target=\"_blank\" href=\""+vip+"\" class=\"tix btn btn-small white\"><i class=\"fa fa-ticket cyan-text\"></i> VIP</a></div></li>";
     $('#tour-dates').append(dateConstructor);
   });
 }
@@ -139,19 +140,3 @@ function isElementInViewport(el) {
 }
 
 
-function checkForPeppa(){
-  var peppaHeader = document.getElementById('peppa-header-image');
-  if(isElementInViewport(peppaHeader)){
-    $('#muddy-peppa').addClass('disappear');
-  } else {
-    $('#muddy-peppa').removeClass('disappear');
-  }
-}
-
-$(document).on( 'scroll', function(){
-  // checkForPeppa();
-});
-
-$(function(){
-  // checkForPeppa();
-});
