@@ -430,3 +430,16 @@ footer{
   bottom: 20px;
   left: 0;
 }
+
+.octo-btn{
+  background-color: $blue;
+  text-decoration: none !important;
+  &:hover, &:active{
+    background-color: $blue;
+  }
+}
+
+.inner-list{
+  padding-left: 20px;
+  font-size: 12px;
+}
