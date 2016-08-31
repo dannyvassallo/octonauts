@@ -35,7 +35,7 @@
       // SHARE INFO
       method: 'feed',
       name: 'Win Tickets to Octonauts LIVE!', // name of the product or content you want to share
-      link: 'http://octonauts.herokuapp.com', // link back to the product or content you are sharing
+      link: 'http://www.octonautslivecontest.com/', // link back to the product or content you are sharing
       picture: 'https://s3.amazonaws.com/myfangate.com/octonauts/shareimage.jpg', // path to an image you would like to share with this content
       caption: 'Octonauts want to send you to a Octonauts LIVE! tour date near you!', // caption
       description: 'Enter your email, choose the closest tour date, and share to win tickets!' // description of your product or content
