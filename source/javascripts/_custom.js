@@ -27,7 +27,7 @@ $(function(){
 $(document).ready(function() {
   $.ajax({
     type: "GET",
-    url: "dates.txt",
+    url: "dates.csv",
     dataType: "text",
     success: function(data){
       dateHandler(data);
@@ -138,5 +138,3 @@ function isElementInViewport(el) {
         rect.left < (window.innerWidth || document. documentElement.clientWidth) /*or $(window).width() */ &&
         rect.top < (window.innerHeight || document. documentElement.clientHeight) /*or $(window).height() */;
 }
-
-
