@@ -138,3 +138,16 @@ function isElementInViewport(el) {
         rect.left < (window.innerWidth || document. documentElement.clientWidth) /*or $(window).width() */ &&
         rect.top < (window.innerHeight || document. documentElement.clientHeight) /*or $(window).height() */;
 }
+
+// end contest
+function blockContest(){
+  $('#contest-form').empty();
+  var newH1 = $('<h1>').text('We\'re Sorry ...').addClass('center-align'),
+  newH2 = $('<h2>').text('This sweepstakes has come to an end.').addClass('center-align'),
+  newP = $('<p>').text('Thank you to all who\'ve entered!').addClass('center-align');
+  $('#contest-form').append(newH1, newH2, newP);
+}
+
+$(function(){
+  blockContest();
+});
